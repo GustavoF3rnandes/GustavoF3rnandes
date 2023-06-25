@@ -34,7 +34,7 @@
 	</li>
 </ul>
 <p align="center">
-  <a href="-6737a9243" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-fernandes-morais-6737a9243" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://www.instagram.com/gustavo_f3rnandes/" target="_blank">
